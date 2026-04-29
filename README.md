@@ -38,7 +38,7 @@ Sending the command `/xwind <ICAO>` to the bot will provide you with
 the crosswind and headwind for all runways of that airport. 
 
 ### Density Altitude Calculation
-Using the `/da <ICAO>` command the current density altitude is calculated.
+Using the `/da <ICAO>` command the current density altitude vyis calculated.
 
 This calculation is based upon the altimeter setting, elevation, temperature 
 and dew point. All of these data points are taken from the METAR and require
